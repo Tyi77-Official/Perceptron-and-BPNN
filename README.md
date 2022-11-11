@@ -12,6 +12,8 @@ The First homework of Neural Network class.
 - Configure its own frame.
 - Training funtion
 - Plot the graph.
+- basic.py uses Basic training data.
+- advanced.py uses Bonus training data.
 
 ## Directory: Basic and Bonus
 - The training data
