@@ -1,5 +1,5 @@
 # Perceptron-and-BPNN
-The First homework of Neural Network.
+The First homework of Neural Network class.
 
 ## main.py
 - The entry point of the program.
